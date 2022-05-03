@@ -4,3 +4,4 @@ Testando terminal.
 Pelo VSCODE.
 Terminal?
 Testando terminal de novo.
+Teste de novo
