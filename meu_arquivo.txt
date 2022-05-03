@@ -1,1 +1,2 @@
 Meu primeiro repositório Git.
+Fazer alteração pelo VS CODE é mais fácil.
