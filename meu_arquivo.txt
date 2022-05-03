@@ -5,3 +5,4 @@ Pelo VSCODE.
 Terminal?
 Testando terminal de novo.
 Teste de novo
+Testar merge no github
